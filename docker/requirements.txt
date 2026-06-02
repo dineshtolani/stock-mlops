@@ -1,0 +1,9 @@
+yfinance
+pandas
+scikit-learn
+joblib
+apache-airflow
+mlflow
+dvc
+fastapi
+uvicorn
